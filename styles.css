@@ -284,46 +284,27 @@ body {
 
   .list-of-pets {
     row-gap: 28px;
-  }
-
-  .pet-card-text {
-    padding: 21px 29px;
-  }
-
-  .pet-filter {
-
-    font-size: 1.375rem;
-
-  }
-
-  .pet-filter button {
-
-
-    font-size: 1.375rem;
-
-  }
-
-  .page-section-title {
     font-size: 5.31rem;
-
   }
 
-  .page-section {
 
-    background-color: #fff;
-    padding: 130px 16px;
-  }
+}
 
-  .intro-buttons {
-    margin-bottom: 129px;
-  }
+.page-section {
 
-  .top-section h1 {
-    font-size: 6.25rem;
-  }
+  background-color: #fff;
+  padding: 130px 16px;
+}
 
-  .top-section {
-    padding-top: 139px;
-    padding-bottom: 139px;
-  }
+.intro-buttons {
+  margin-bottom: 129px;
+}
+
+.top-section h1 {
+  font-size: 6.25rem;
+}
+
+.top-section {
+  padding-top: 139px;
+  padding-bottom: 139px;
 }
